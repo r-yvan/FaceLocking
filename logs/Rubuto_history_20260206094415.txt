@@ -1,0 +1,16 @@
+2026-02-06 09:44:05.782644 - FACE_LOCKED: Face locked: Rubuto
+2026-02-06 09:44:06.287410 - SMILE: Smile detected (ratio: 19.85)
+2026-02-06 09:44:07.356623 - SMILE: Smile detected (ratio: 83.54)
+2026-02-06 09:44:07.889912 - SMILE: Smile detected (ratio: 64.57)
+2026-02-06 09:44:10.339000 - HEAD_RIGHT: Moved right by 10.3px
+2026-02-06 09:44:10.339000 - SMILE: Smile detected (ratio: 42.67)
+2026-02-06 09:44:10.865744 - HEAD_RIGHT: Moved right by 18.2px
+2026-02-06 09:44:10.865744 - SMILE: Smile detected (ratio: 110.36)
+2026-02-06 09:44:11.177550 - SMILE: Smile detected (ratio: 167.89)
+2026-02-06 09:44:11.510251 - HEAD_LEFT: Moved left by 24.0px
+2026-02-06 09:44:12.051194 - HEAD_RIGHT: Moved right by 50.3px
+2026-02-06 09:44:12.051194 - SMILE: Smile detected (ratio: 30.42)
+2026-02-06 09:44:12.849340 - HEAD_LEFT: Moved left by 26.6px
+2026-02-06 09:44:13.130465 - HEAD_LEFT: Moved left by 128.9px
+2026-02-06 09:44:13.395567 - HEAD_LEFT: Moved left by 29.7px
+2026-02-06 09:44:13.658931 - HEAD_RIGHT: Moved right by 33.8px
